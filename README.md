@@ -1,6 +1,6 @@
 # minesweeper file documentation
 
-![preview main]([https://github.com/Florence-Navet/minesweeper.png](https://github.com/Florence-Navet/minesweeper/blob/main/minesweeper.png))
+![preview main](https://raw.githubusercontent.com/Florence-Navet/minesweeper/refs/heads/main/minesweeper.png)
 
 ---
 
