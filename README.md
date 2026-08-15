@@ -1,6 +1,6 @@
 # minesweeper file documentation
 
-![preview main](https://adeline-patenne.students-laplateforme.io/images/minesweeper_project.jpg)
+![preview main](https://github.com/Florence-Navet/minesweeper.png)
 
 ---
 
